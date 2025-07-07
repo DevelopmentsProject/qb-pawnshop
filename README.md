@@ -5,6 +5,10 @@ A simple and clean Pawn Shop script for QBCore servers, allowing players to sell
 Replacing qb-target or ox_target with interact
 
 ---
+## youtube video link
+
+https://www.youtube.com/watch?v=1unC9j_ooRk
+
 
 ## 🔧 Features
 
