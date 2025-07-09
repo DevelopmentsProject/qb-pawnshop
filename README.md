@@ -30,7 +30,6 @@ https://www.youtube.com/watch?v=1unC9j_ooRk
 - [`qb-input`](https://github.com/qbcore-framework/qb-input)
 - [`qb-inventory`](https://github.com/qbcore-framework/qb-inventory)
 - [`interact`](https://github.com/darktrovx/interact)
-- [`qb-logs`] (for logging bans, optional)
 
 ---
 
